@@ -1,0 +1,2 @@
+# Haojs
+JavaScript framework
